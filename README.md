@@ -46,7 +46,7 @@ To access the problem statement, Click [here](https://www.mediafire.com/file/5hm
 - App data deletion: Store event entry info in a separate file in local storage.
   - File persists after app data deletion and prevents re-entry QR generation.
 
-### Alternative
+#### Alternative Approach
 
 - Allow login from multiple devices with less stringent security.
 - Manage multiple entries from the same ticket and account.
