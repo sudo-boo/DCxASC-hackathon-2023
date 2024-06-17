@@ -1,4 +1,4 @@
-name: steps
+name: calci
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -29,11 +29,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_secure_storage: ^5.0.2
-  qr_flutter: ^3.0.1
-  flutter_barcode_scanner: ^1.0.1
-
-
+  camera: ^0.10.5+5
+  qr_flutter: ^4.1.0
+  qr_code_scanner: ^1.0.1
+  path_provider: ^2.1.1
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -63,8 +62,9 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/data.txt
+    - assets/data.json
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

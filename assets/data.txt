@@ -1,0 +1,2 @@
+used_id -|- date_time -|- event_id -|- guard_id -|- attended_bool
+2bv7b38x7g-|-21-10-2023-00:00:00-|-21-10-2023-04:00:00-|-79bws672hg-|-0

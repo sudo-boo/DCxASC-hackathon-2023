@@ -1,4 +1,4 @@
-package com.example.steps
+package com.example.calci
 
 import io.flutter.embedding.android.FlutterActivity
 

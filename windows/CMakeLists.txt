@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(steps LANGUAGES CXX)
+project(calci LANGUAGES CXX)
 
-set(BINARY_NAME "steps")
+set(BINARY_NAME "calci")
 
 cmake_policy(SET CMP0063 NEW)
 
