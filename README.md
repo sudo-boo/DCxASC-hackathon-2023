@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-To access the problem statement, Click [here](https://www.mediafire.com/file/5hmnwj0smm91hy8/ps.pdf/file)
+To access the problem statement, Click [here](https://maroon-kizzee-51.tiiny.site)
 
 
 
