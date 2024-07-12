@@ -1,4 +1,4 @@
-# Secure e-Ticket Entry Permit System (STEPS) : DC Hackathon 2023
+# Secure e-Ticket Entry Permit System (STEPS) : DCxASC Hackathon 2023
 
 ## Problem Statement
 
